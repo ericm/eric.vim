@@ -1,0 +1,5 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": ["go", "tsx", "json", "ts"],
+    "diagnostic.enableMessage": "jump"
+}
+
