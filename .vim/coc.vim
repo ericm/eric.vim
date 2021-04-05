@@ -11,6 +11,7 @@ let g:coc_global_extensions = [
   \ 'coc-prettier', 
   \ 'coc-json', 
   \ 'coc-go',
+  \ 'coc-sh',
   \ ]
 
 set cmdheight=2
