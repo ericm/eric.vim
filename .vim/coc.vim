@@ -17,7 +17,7 @@ let g:coc_global_extensions = [
 set cmdheight=2
 autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
 autocmd BufWritePre *.go :silent call CocAction('runCommand', 'editor.action.organizeImport')
-
+command! -nargs=0 Prettier :CocCommand prettier.formatFile
 
 nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)

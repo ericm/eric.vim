@@ -1,5 +1,10 @@
 {
-    "coc.preferences.formatOnSaveFiletypes": ["go", "tsx", "json", "ts"],
-    "diagnostic.enableMessage": "jump"
+  "coc.preferences.formatOnSaveFiletypes": [
+    "go",
+    "typescriptreact",
+    "json",
+    "typescript"
+  ],
+  "tsserver.formatOnType": true,
+  "diagnostic.enableMessage": "jump"
 }
-
