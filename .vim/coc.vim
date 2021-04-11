@@ -12,6 +12,7 @@ let g:coc_global_extensions = [
   \ 'coc-json', 
   \ 'coc-go',
   \ 'coc-sh',
+  \ 'coc-styled-components',
   \ ]
 
 set cmdheight=2
