@@ -56,6 +56,7 @@ Plug 'Yggdroot/indentLine'
 Plug 'editor-bootstrap/vim-bootstrap-updater'
 Plug 'tomasiser/vim-code-dark'
 Plug 'editorconfig/editorconfig-vim'
+Plug 'jupyter-vim/jupyter-vim'
 
 "" Include user's extra bundle
 if filereadable(expand("~/.vimrc.local.bundles"))
