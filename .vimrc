@@ -47,6 +47,7 @@ source ~/eric.vim/.vim/leaderf.vim
 source ~/eric.vim/.vim/delimate.vim
 source ~/eric.vim/.vim/fugitive.vim
 source ~/eric.vim/.vim/nerdtree.vim
+source ~/eric.vim/.vim/debugger.vim
 
 Plug 'vim-scripts/grep.vim'
 Plug 'vim-scripts/CSApprox'
